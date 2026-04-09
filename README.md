@@ -15,3 +15,6 @@ This project analyzes Amazon sales data to understand sales trends and performan
 ## Files
 - Excel dataset
 - Dashboard screenshots
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
